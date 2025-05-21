@@ -1,0 +1,15 @@
+    /* src/index.css */
+    @import "tailwindcss"; /* Or your Tailwind base/components/utilities */
+
+    /*
+      Ensure the font is imported. If you have the <link> tags in index.html,
+      you don't strictly need the @import url(...) here, but it doesn't hurt.
+    */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+    body {
+      font-family: "Inter", sans-serif; 
+      font-optical-sizing: auto;
+      font-style: normal;
+    }
+    
