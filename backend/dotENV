@@ -1,0 +1,9 @@
+#name this file as .env
+#necessary fields to connect to the database:
+
+GROQ_API_KEY="YOUR_GROQ_API_KEY"
+
+DB_HOST="YOUR_HOST_NAME"
+DB_USER="YOUR_DB_ROOT_NAME"
+DB_PASSWORD="YOUR_DB_PASSWORD"
+DB_NAME="DB_NAME"
