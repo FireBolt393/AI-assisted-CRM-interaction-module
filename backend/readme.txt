@@ -1,0 +1,1 @@
+This folder contains only the source code required to run the backend. Make sure to create a virutual enviroment and set up the necessary dependencies to run the project
